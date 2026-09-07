@@ -29,10 +29,8 @@ The materials are provided to support evidence verification, methodological tran
 
 ## Source and Copyright Notice
 
-The archived policy texts were collected from publicly available privacy policies, user agreements, or in-app policy pages released by the respective operators or rights holders.
+All documents uploaded in this repository were collected from official documents that had been publicly made available by the respective operators or rights holders. The materials are used solely for personal academic research and for supporting information disclosure in connection with academic journal submission. No commercial use is involved. Copyright and source information has been retained where available.
 
-These materials are provided solely for non-commercial academic research, evidence verification, and peer-review transparency. The repository authors do not claim copyright ownership over the original policy texts.
+This use is intended to be consistent with Article 24 of the Copyright Law of the People’s Republic of China, which provides that, under certain conditions, a published work may be used without permission from, and without payment to, the copyright owner for purposes such as personal study, research, or appreciation, provided that the name of the author or copyright owner and the title of the work are indicated, and that such use does not affect the normal use of the work or unreasonably prejudice the lawful rights and interests of the copyright owner.
 
-Source information, including the operator, access channel, URL or app source, access date, and version or effective date, is provided in the accompanying evidence matrices.
-
-If any operator or rights holder has concerns about the inclusion of a document, please contact the authors. We will promptly review the request and, where appropriate, remove or modify the relevant material.
+If any rights holder has concerns or objections regarding the inclusion of any material in this repository, please contact us at 642207064@qq.com. We will promptly review the request and remove the relevant content where appropriate.
